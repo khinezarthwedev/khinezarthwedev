@@ -14,7 +14,7 @@ I'm a Software Engineer based in Auckland, New Zealand, with over 10 years of ex
 
 ---
 
-<h2>Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <p><strong>Frontend:</strong> React · TypeScript · JavaScript · HTML · CSS</p>
 
